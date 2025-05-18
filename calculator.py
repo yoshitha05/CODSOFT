@@ -37,7 +37,7 @@ entry2 = tk.Entry(app)
 entry2.grid(row=1, column=1)
 
 operation = tk.StringVar(app)
-operation.set('+')  # default value
+operation.set('+')  
 
 ops_menu = tk.OptionMenu(app, operation, '+', '-', '*', '/')
 ops_menu.grid(row=2, column=0, columnspan=2)
