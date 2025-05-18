@@ -1,0 +1,17 @@
+{
+    "Nemo": {
+        "Phone": "9.........5",
+        "Email": "nemo@gmail.com",
+        "Address": "Kukatpally, Hyd."
+    },
+    "Mom": {
+        "Phone": "9........4",
+        "Email": "r@gmail.com",
+        "Address": "Kukatpally, Hyd"
+    },
+    "xyz": {
+        "Phone": "2380923",
+        "Email": "xyz@yahoo.com",
+        "Address": "Hyd"
+    }
+}
